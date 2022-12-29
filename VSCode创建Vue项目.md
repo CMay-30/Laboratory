@@ -71,4 +71,3 @@ vue init webpack laboratory
 2. 根据提示，访问[http://localhost:8080](http://localhost:8080/)，会访问到如下界面。至此，VS Code创建Vue.js项目已经完成。
 
    ![1672215583340](C:\Users\tanwen\AppData\Roaming\Typora\typora-user-images\1672215583340.png)
-
