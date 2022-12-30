@@ -30,3 +30,10 @@ https://www.jianshu.com/p/18859364e030?utm_campaign=maleskine&utm_content=note&u
 
 ![1672257069416](C:\Users\tanwen\AppData\Roaming\Typora\typora-user-images\1672257069416.png)
 
+
+
+# 报错 vscode could not import /github.com/gin-gonic/gin 或 import /github.com/gin-gonic/gin 标红
+
+- go get -u github.com/gin-gonic/gin
+- go mod init gin
+- go mod edit -require github.com/gin-gonic/gin@latest
